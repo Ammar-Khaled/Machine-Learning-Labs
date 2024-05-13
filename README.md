@@ -3,16 +3,16 @@ This repository contains labs and exercises related to Machine Learning. The lab
 These labs were done during the **Machine Learning course** at **Zagazig University** in Spring 2024.
 
 ## Contents
-- [Data Preprocessing Lab](./Data_Preprocessing)
-- [Linear Regression Lab](./Linear_Regression)
-- [Polynomial Regression Lab](./Polynomial_Regression)
-- [Logistic Regression Lab](./Logistic_Regression)
-- [Support Vector Regression Lab](./Support_Vector_Regression)
-- [Decision Tree Regression Lab](./Decision_Tree_Regression)
+- [Data Preprocessing Lab](./Data%20Preprocessing/)
+- [Linear Regression Lab](./Linear%20Regression/)
+- [Polynomial Regression Lab](./Polynomial%20Regression/)
+- [Logistic Regression Lab](./Logisitic%20Regression/)
+- [Support Vector Regression Lab](./Support%20Vector%20Regression/)
+- [Decision Tree Regression Lab](./Decision%20Tree%20Regression/)
 - [stack overflow 2023 survey](./stack_overflow_2023_survey)
-- [numpy tutorial](./numpy_tutorial)
-- [pandas tutorial](./pandas_tutorial)
-- [matplotlib tutorial](./matplotlib_tutorial)
+- [numpy tutorial](./numpy.ipynb)
+- [pandas tutorial](./pandas.ipynb)
+- [matplotlib tutorial](./matplotlib.ipynb)
 
 ## Installation
 You just need to have Python 3.9 or above installed on your machine to run the notebooks.
