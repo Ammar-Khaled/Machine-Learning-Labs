@@ -3,12 +3,12 @@ This repository contains labs and exercises related to Machine Learning. The lab
 These labs were done during the **Machine Learning course** at **Zagazig University** in Spring 2024.
 
 ## Contents
-- [Data Preprocessing Lab](./Data_Preprocessing_Lab)
-- [Linear Regression Lab](./Linear_Regression_Lab)
-- [Polynomial Regression Lab](./Polynomial_Regression_Lab)
-- [Logistic Regression Lab](./Logistic_Regression_Lab)
-- [Support Vector Regression Lab](./Support_Vector_Regression_Lab)
-- [Decision Tree Regression Lab](./Decision_Tree_Regression_Lab)
+- [Data Preprocessing Lab](./Data_Preprocessing)
+- [Linear Regression Lab](./Linear_Regression)
+- [Polynomial Regression Lab](./Polynomial_Regression)
+- [Logistic Regression Lab](./Logistic_Regression)
+- [Support Vector Regression Lab](./Support_Vector_Regression)
+- [Decision Tree Regression Lab](./Decision_Tree_Regression)
 - [stack overflow 2023 survey](./stack_overflow_2023_survey)
 - [numpy tutorial](./numpy_tutorial)
 - [pandas tutorial](./pandas_tutorial)
